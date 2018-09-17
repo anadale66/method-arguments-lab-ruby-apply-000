@@ -1,7 +1,7 @@
 
 def introduction(name,language)
-  return "Hi my name is #{name}" + " " + "and I speak #{language}"
+  return "Hi my name is #{name}
 end
 
 
-puts introduction("Josh","English")
+

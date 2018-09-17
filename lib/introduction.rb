@@ -3,4 +3,4 @@ def introduction(name,language)
 end
 
 
-puts introduction("John","English")
+introduction("John","English")

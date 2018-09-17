@@ -1,6 +1,6 @@
-def introduction(name)
-  "Hello my name is #{name}"
+def introduction(name,language)
+  "Hello my name is #{name},and I speak #{language}"
 end
 
 
-puts introduction ("John")
+puts introduction ("John","English")

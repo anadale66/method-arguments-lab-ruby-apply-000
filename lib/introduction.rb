@@ -4,4 +4,3 @@ def introduction(name)
 end
 
 
-introduction("Josh")
